@@ -1,0 +1,3 @@
+welcome  to devops
+git is a tool
+git is version controllsystem
